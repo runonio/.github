@@ -20,14 +20,8 @@ _개발의 가장 큰 가치는 만든 것이<br>많은 사람들에게 만족�
     <img src="https://img.shields.io/badge/BLOG-Runon_Blog-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Runon Blog">
   </a>
   &nbsp;
-  <a href="mailto:info@runon.io">
-    <img src="https://img.shields.io/badge/EMAIL-Contact_Me-lightgrey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
-  </a>
-
-
-
   <a href="https://gformance.com/">
-    <img src="https://img.shields.io/badge/Gformance-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%20(Preview)-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="coming soon">
+    <img src="https://img.shields.io/badge/Gformance-coming soon-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="coming soon">
   </a>
 
 </div>
