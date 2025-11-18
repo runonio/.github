@@ -1,7 +1,33 @@
 <div align="center">
-  <a href="https://runon.io/">
-    <img src="https://github.com/runonio.png" width="150" alt="Runon Logo">
+
+  <a href="https://runon.io" style="text-decoration:none;">
+    <h1>Code for Real Value</h1>
   </a>
+
   <br>
-  <h3>👆 아이콘을 클릭하면 홈페이지로 이동합니다</h3>
+
+  <p style="font-size: 18px; font-style: italic; color: #666;">
+    "개발의 가장 큰 가치는 만든 것이<br>
+    많은 사람들에게 만족스럽게 사용되는 순간이라고 생각합니다."
+  </p>
+
+  <p>
+    작은 것을 만들더라도 필요하고 사용할 수 있는 것을<br>
+    만들기 위해 노력하겠습니다.
+  </p>
+
+  <br>
+
+  <a href="https://runon.io">
+    <img src="https://img.shields.io/badge/HOMEPAGE-runon.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Runon Website">
+  </a>
+  &nbsp;
+  <a href="https://blog.runon.io">
+    <img src="https://img.shields.io/badge/BLOG-Runon_Blog-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Runon Blog">
+  </a>
+  &nbsp;
+  <a href="mailto:info@runon.io">
+    <img src="https://img.shields.io/badge/EMAIL-Contact_Me-lightgrey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
+  </a>
+
 </div>
