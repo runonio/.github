@@ -25,28 +25,9 @@ _개발의 가장 큰 가치는 만든 것이<br>많은 사람들에게 만족�
   </a>
 
 
----
-  <br>
-
-  <br>
-
-  <p>
-    <img src="https://www.google.com/s2/favicons?domain=gformance.com&sz=128" width="30" alt="Gformance Icon">
-    <a href="https://gformance.com/" style="font-size: 24px; font-weight: bold; text-decoration: none; color: #2563eb; margin-left: 5px;">
-      Gformance
-    </a>
-    <img src="https://img.shields.io/badge/Status-Coming%20Soon-2563eb?style=flat-square" alt="Coming Soon" style="margin-left: 10px;">
-  </p>
-
-  <p style="text-align: center; color: #444;">
-    자산관리의 새로운 기준을 제시합니다.<br>
-    시장분석, 종목분석, 포트관리, 퀀트, 매매자동화 솔루션 <b>Gformance</b>를 준비하고 있습니다.
-  </p>
-
-  <br>
 
   <a href="https://gformance.com/">
-    <img src="https://img.shields.io/badge/Gformance-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%20(Preview)-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Gformance Preview">
+    <img src="https://img.shields.io/badge/Gformance-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%20(Preview)-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="coming soon">
   </a>
 
 </div>
