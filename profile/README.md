@@ -1,10 +1,5 @@
 <div align="center">
 
-  <a href="https://runon.io">
-    <h1>Code for Real Value</h1>
-  </a>
-
-  <br>
 
 _개발의 가장 큰 가치는 만든 것이 많은 사람들에게 만족스럽게 사용되는 순간이라고 생각합니다._
 <br>
