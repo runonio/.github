@@ -4,8 +4,9 @@
 _개발의 가장 큰 가치는 만든 것이 많은 사람들에게 만족스럽게 사용되는 순간이라고 생각합니다._
 <br>
 작은 것을 만들더라도 필요하고 사용할 수 있는 것을 만들기 위해 노력하겠습니다.
+<br>
 
-
+서비스를 준비하며 개발 과정 투명화를 위해 open source로 진행하던 부분들이 알고리즘 노출 우려로 private로 변경되었습니다.
 
   <a href="https://runon.io">
     <img src="https://img.shields.io/badge/HOMEPAGE-runon.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Runon Website">
